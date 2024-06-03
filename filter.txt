@@ -1,0 +1,8 @@
+[uBlock Origin]
+! Title: Hide GitHub Explore
+! Homepage: https://github.com/MatusOllah/ublock-hide-gh-explore
+! GitHub repository: https://github.com/MatusOllah/ublock-hide-gh-explore
+! License: https://github.com/MatusOllah/ublock-hide-gh-explore/blob/main/LICENSE.md
+! GitHub contributors: https://github.com/MatusOllah/ublock-hide-gh-explore/graphs/contributors
+
+github.com##.mb-5.color-bg-default.border.color-border-default.p-3.rounded-2[role="navigation"][aria-label="Explore repositories"]
